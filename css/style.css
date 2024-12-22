@@ -227,7 +227,7 @@ ul.nav.navbar-nav {
 	vertical-align: middle;
 	-webkit-transform: translateZ(0);
 	transform: translateZ(0);
-	box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+	box-shadow: 0 0 1px rgba(0, 0, 0, 1);
 	-webkit-backface-visibility: hidden;
 	backface-visibility: hidden;
 	-moz-osx-font-smoothing: grayscale;
@@ -258,7 +258,7 @@ ul.nav.navbar-nav {
 	transition-timing-function: ease-out;
 }
 .hvr-shutter-out-horizontal:hover, .hvr-shutter-out-horizontal:focus, .hvr-shutter-out-horizontal:active {
-	color: black;
+	color: white;
 }
 .hvr-shutter-out-horizontal:hover:before, .hvr-shutter-out-horizontal:focus:before, .hvr-shutter-out-horizontal:active:before {
 	-webkit-transform: scaleX(1);
