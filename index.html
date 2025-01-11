@@ -17,6 +17,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link href="css/style.css" rel='stylesheet' type='text/css' />
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.js"></script>
+<!----aggiunto script per typed---->
+<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
 <!---- start-smoth-scrolling---->
 <script type="text/javascript" src="js/move-top.js"></script>
 <script type="text/javascript" src="js/easing.js"></script>
@@ -168,12 +170,31 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 		</div>
 	</div>
+	  <!-- Element to contain animated typing -->
+  
 	<!--end-welcome-->
-	<!--start-join--><!--
+	<!--start-join-->
 	<div class="join">
 		<div class="container">
 			<div class="join-main">
-				<div class="col-md-3 join-left">
+				
+
+	<span id="element"></span>
+
+  <!-- Load library from the CDN -->
+  <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+
+  <!-- Setup and start animation! -->
+  <script>
+    var typed = new Typed('#element', {
+      strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
+      typeSpeed: 50,
+    });
+  </script>
+
+				
+					<!--
+					<div class="col-md-3 join-left">
 					<span class="glyphicon glyphicon-time" aria-hidden="true"></span>
 					<h4>massa blandit</h4>
 					<p>Proin fermentum diam eu massa blandit, congue finibus ante pulvinar. Aliquam lacinia odio eros.</p>
@@ -193,11 +214,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<h4>placerat ipsum</h4>
 					<p>Proin fermentum diam eu massa blandit, congue finibus ante pulvinar. Aliquam lacinia odio eros.</p>
 				</div>
-				<div class="clearfix"></div>
+				
+				<div class="clearfix"></div> 
+				 -->	
 			</div>
 		</div>
 	</div>
-	-->
+	
 	<!--end-join-->
 	<!--start-news-->
 	<div class="news">
