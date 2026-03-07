@@ -5,4 +5,4 @@ layout: default
 
 
 {: .important }
-> {: .opaque }
+> opaco
