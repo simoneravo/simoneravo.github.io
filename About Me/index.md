@@ -9,5 +9,5 @@ Sotto
 
 --- 
 
-{: .important }
-> opaco
+
+opaco
