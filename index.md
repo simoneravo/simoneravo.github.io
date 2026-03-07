@@ -1,7 +1,9 @@
 ---
 title: Home
 layout: home
+nav_enabled: true
 ---
+
 # Title
 
 ---
