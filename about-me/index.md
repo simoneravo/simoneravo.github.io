@@ -1,11 +1,15 @@
 ---
-title: ciao
+title: About Me
 nav_order: 2
 ---
 
-# Titolo
+# A non-tech person stubborn enough
 
-Sotto
+{: .important }
+> anything can be done with enough time
+> {: .important }
+> > for example this site
+
 
 --- 
 
