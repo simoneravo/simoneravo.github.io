@@ -1,4 +1,4 @@
 ---
 Title: ciao
-style: default
+layout: default
 ---
