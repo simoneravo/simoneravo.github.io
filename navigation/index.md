@@ -1,14 +1,11 @@
 ---
-title: Navigation
-nav_order: 3
+title: Preparation
+nav_order: 2
 ---
 
-# Titolo
-
-Sottotitlo
+# Preparation
+## Some steps to prepare a wonderful nest
 
 ---
 
-
-{: .warning }
-> This website documents the features of the current `main` branch of the Just the Docs theme. See for a list of releases, new features, and bug fixes.
+## 
