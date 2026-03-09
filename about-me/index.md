@@ -1,23 +1,15 @@
 ---
 title: About Me
-nav_order: 2
+nav_order: 10
 ---
 
 # A non-tech person stubborn enough
 
 {: .important }
 > anything can be done with enough time
-> 
-> {: .important }
-> > for example this site
-> >
-> > {: .important }
-> > > which took me hours to deploy
-> > > 
-> > > {: .important }
-> > > > and i'm not sure it's right
+
 
 --- 
 
 
-opaco
+
