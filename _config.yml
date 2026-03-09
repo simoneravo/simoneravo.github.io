@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://simoneravo.github.io/WazuhIMHO
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/simoneravo.github.io
+  Template Repository: https://github.com/simoneravo/WazuhIMHO
 
 plugins:
   - jekyll-default-layout
